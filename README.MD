@@ -13,11 +13,10 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE Student at **Quantum University**
-- 💻 Passionate about **Cybersecurity, Blockchain & Full Stack Development**
-- 🌱 Currently learning **Advanced Web Security, Blockchain Development & AI**
-- 🔥 Building real-world projects using **Java, Python, React, Node.js & Firebase**
-- 🛡️ Interested in **Ethical Hacking, OSINT & Web Application Security**
+- 🎓 B.Tech Computer Science and Engineering, graduating in 2027
+- 💻 Interested in Python backend development and software engineering
+- 🌱 Author of research on Generative AI for Honeypot Trap Design
+- 🚀 Building practical applications and improving my engineering skills
 - 📚 Love solving coding problems and exploring new technologies
 - ⚡ Fun fact: *My bugs disappear after adding console.log() 😎*
 
