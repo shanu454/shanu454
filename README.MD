@@ -1,7 +1,7 @@
-![logo](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi%20👋,%20I'm%20Sk%20Shanu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20|%20Software%20Developer%20|%20Blockchain%20Learner&descAlignY=60&descSize=18)
+![logo](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi%20👋,%20I'm%20Sk%20Shanu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20|%20Software%20Developer%20|%20Frontend%20Developer&descAlignY=60&descSize=18)
 
 <h1 align="center">Hi 👋, I'm Sk Shanu</h1>
-<h3 align="center">A passionate Software Developer & Cybersecurity Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Python Developer & Software Developer from India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
